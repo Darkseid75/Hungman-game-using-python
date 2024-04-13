@@ -1,0 +1,17 @@
+words=[
+'Cat',
+'king',
+'go',
+'people',
+'ouch',
+'tennies',
+'modern',
+'love',
+'pain',
+'nature',
+'tv',
+'light',
+'Moon',
+'Bird',
+'Lamp'
+]
